@@ -1,0 +1,47 @@
+body {
+	background: url('/assets/sfransoyko.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+h1 {
+	color: white;
+	font-family: 'Helvetica Neue', Helvetica;
+	font-weight: 100;
+	font-size: 70px;
+	margin: 0px;
+}
+
+p {
+	color: white;
+	family: 'Helvetica Neue', Helvetica;
+	font-weight: 200;
+}
+
+.box {
+	background-color: rgba(0,0,0,0.5);
+	padding: 20px;
+	width: 1000px;
+	margin: 100px auto;
+	text-align: center;
+}
+
+.navbar.navbar-default {
+	background-color: rgba(255, 255, 255, 0.5);
+}
+
+.navbar .navbar-brand {
+	color: #000;
+	font-family: 'Helvetica Neue', Helvetica;
+	font-weight: 100;
+	font-size: 35px;
+}
+
+.navbar .navbar-nav {
+	color: #000;
+	font-family: 'Helvetica Neue', Helvetica;
+	font-weight: 200;
+	font-size: 15px;
+}
